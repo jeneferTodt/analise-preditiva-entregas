@@ -1,6 +1,3 @@
-# analise-preditiva-entregas
-Projeto de análise preditiva utilizando Python e Machine Learning
-
 # SalesInsight PY — Análise e Visualização de Dados de Vendas
 
 ## Objetivo
