@@ -67,6 +67,7 @@ O projeto utiliza bibliotecas como Pandas, NumPy, Matplotlib e Seaborn. Caso alg
 ```text
 salesinsight-py/
 ├── salesinsight.ipynb
+├── graficos_insight.zip
 ├── vendas.csv
 ├── README.md
 └── outputs/
